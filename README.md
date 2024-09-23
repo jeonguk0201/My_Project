@@ -31,7 +31,8 @@
 | 3  | **ELK 스택 구축** | Window 환경에서 진행한 ELK 파이프라인 스택 구축을 우분투 리눅스 환경으로 진행한 프로젝트 | Ubuntu, Linux, ElasticSearch, Logstash, Kibana, Filebeat, Docker | 팀 프로젝트 (4명) | [GitHub 링크](https://github.com/lotuxsoo/fisa3_elk_pipeline) | 2024-07-23 |
 | 4  | **타이타닉 데이터 분석** | Ubuntu에서 ELK를 설치하고 Mysql에 연동해 csv파일을 가져와 시각화 | Ubuntu, ElasticSearch, Logstash, Kibana, Mysql | 팀 프로젝트 (4명) | [GitHub 링크](https://github.com/jeonguk0201/fisa3_ELK_MySQL) | 2024-07-26 |
 | 5  | **JPAJoin_edu** | JPA를 이용하여 Emp와 Dept 테이블을 deptno 값으로 join 연산을 하고 CRUD 작업 진행 | JPA, Java, sql | 팀 프로젝트 (4명) | [GitHub 링크](https://github.com/jeonguk0201/JPAJoin_edu) | 2024-08-01 |
-| 6  | **FISA 학생들을 위한 커뮤니티 - 맛집 공유 및 모임 생성** | FISA 학생들을 위한 물건 대여 및 커뮤니티 플랫폼 개발 | Spring Boot, JPA, RESTful API, React | 팀 프로젝트 (7명) | [GitHub 링크](https://github.com/yuwankang/FISA-Land) | 2024-08-16 |
+| 6  | **OJT_Project** | 카드 결제 시스템의 결제 정보를 관리할 수 있는 엔티티 클래스 작성 | JPA, Java, sql, JPQL | 팀 프로젝트 (4명) | [GitHub 링크](https://github.com/Fisa3/OJT_Project) | 2024-08-02 |
+| 7  | **FISA 학생들을 위한 커뮤니티 - 맛집 공유 및 모임 생성** | FISA 학생들을 위한 물건 대여 및 커뮤니티 플랫폼 개발 | Spring Boot, JPA, RESTful API, React | 팀 프로젝트 (7명) | [GitHub 링크](https://github.com/yuwankang/FISA-Land) | 2024-08-16 |
 ---
 
 이 포트폴리오는 지속적으로 업데이트됩니다.
