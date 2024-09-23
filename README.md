@@ -14,7 +14,7 @@
 
 | No | 프로젝트 이름 | 설명 | 주요 기술 | 참여<br> 인원 | 링크 | 날짜 |
 |----|---------------|------|-----------|----------|------|------|
-| 1  | **vSphereDRS** | DRS를 깊이 공부하여 진행한 세미나 | VMWare, vSphere, DRS | 팀 프로젝트 (4명) | [GitHub 링크]([https://github.com/jeonguk0201/Linux_PAM](https://github.com/WooriFISA-VMware/vSphereDRS)) | 2024-09-13 |
+| 1  | **vSphereDRS** | DRS를 깊이 공부하여 진행한 세미나 | VMWare, vSphere, DRS | 팀 프로젝트 (4명) | [GitHub 링크]([https://github.com/WooriFISA-VMware/vSphereDRS]) | 2024-09-13 |
 | 2  | **Linux_PAM** | PAM 사용해서 비밀번호를 8자리 이상으로 제한하기 | Linux, PAM | 개인 프로젝트 | [GitHub 링크](https://github.com/jeonguk0201/Linux_PAM) | 2024-09-20 |
 | 3  | **average load 분석** | average load 분석을 통한 부하의 원인파악 및 해결방안 | Linux, Infra | 개인 프로젝트 | [GitHub 링크](https://github.com/jeonguk0201/Average-Load-in-Linux) | 2023-09-23 |
 
