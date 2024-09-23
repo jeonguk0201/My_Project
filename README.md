@@ -14,7 +14,9 @@
 
 | No | 프로젝트 이름 | 설명 | 주요 기술 | 참여<br> 인원 | 링크 | 날짜 |
 |----|---------------|------|-----------|----------|------|------|
-| 1  | **average load 분석** | average load 분석을 통한 부하의 원인파악 및 해결방안 | Linux, Infra | 개인 프로젝트 | [GitHub 링크](https://github.com/jeonguk0201/Average-Load-in-Linux) | 2023-09-23 |
+| 1  | **Linux_PAM** | PAM 사용해서 비밀번호를 8자리 이상으로 제한하기 | Linux, PAM | 개인 프로젝트 | [GitHub 링크](https://github.com/jeonguk0201/Linux_PAM) | 2024-09-20 |
+| 2  | **average load 분석** | average load 분석을 통한 부하의 원인파악 및 해결방안 | Linux, Infra | 개인 프로젝트 | [GitHub 링크](https://github.com/jeonguk0201/Average-Load-in-Linux) | 2023-09-23 |
+
 
 <br>
 
@@ -27,9 +29,6 @@
 | 3  | **타이타닉 데이터 분석** | Ubuntu에서 ELK를 설치하고 Mysql에 연동해 csv파일을 가져와 시각화 | Ubuntu, ElasticSearch, Logstash, Kibana, Mysql | 팀 프로젝트 (4명) | [GitHub 링크](https://github.com/jeonguk0201/fisa3_ELK_MySQL) | 2024-07-26 |
 | 4  | **JPAJoin_edu** | JPA를 이용하여 Emp와 Dept 테이블을 deptno 값으로 join 연산을 하고 CRUD 작업 진행 | JPA, Java, sql | 팀 프로젝트 (4명) | [GitHub 링크](https://github.com/jeonguk0201/JPAJoin_edu) | 2024-08-01 |
 | 5  | **FISA 학생들을 위한 커뮤니티 - 맛집 공유 및 모임 생성** | FISA 학생들을 위한 물건 대여 및 커뮤니티 플랫폼 개발 | Spring Boot, JPA, RESTful API, React | 팀 프로젝트 (7명) | [GitHub 링크](https://github.com/yuwankang/FISA-Land) | 2024-08-16 |
-| 6  | **Linux_PAM** | PAM 사용해서 비밀번호를 8자리 이상으로 제한하기 | Linux, PAM | 개인 프로젝트 | [GitHub 링크](https://github.com/jeonguk0201/Linux_PAM) | 2024-09-20 |
-| 7  | **Average-Load-in-Linux** | load average와 CPU사용률의 상관관계 분석, 부하의 주요원인 파악 및 성능개선을 위한 방안 마련 | Linux | 개인 프로젝트 | [GitHub 링크](https://github.com/jeonguk0201/Average-Load-in-Linux) | 2024-09-23 |
-
 ---
 
 이 포트폴리오는 지속적으로 업데이트됩니다.
