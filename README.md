@@ -17,6 +17,7 @@
 | 2  | **1분의 인기스타** | 더미데이터를 생성 하여 Kibana를 이용해 시각화 및 crontab을 사용하여 자동화 | Ubuntu, ELK, crontab, docker | 팀 프로젝트 (4명) | [GitHub 링크](https://github.com/cshharry/WooriFisa_crontab) | 2024-09-19 |
 | 3  | **Linux_PAM** | PAM 사용해서 비밀번호를 8자리 이상으로 제한하기 | Linux, PAM | 개인 프로젝트 | [GitHub 링크](https://github.com/jeonguk0201/Linux_PAM) | 2024-09-20 |
 | 4  | **average load 분석** | average load 분석을 통한 부하의 원인파악 및 해결방안 | Linux, Infra | 개인 프로젝트 | [GitHub 링크](https://github.com/jeonguk0201/Average-Load-in-Linux) | 2023-09-23 |
+| 5  | **docker-optimization** | Docker에서 이미지 경량화 | Docker, Node.js, Linux | 개인 프로젝트 | [GitHub 링크](https://github.com/jeonguk0201/docker-optimization/tree/main) | 2023-09-24 |
 
 
 <br>
