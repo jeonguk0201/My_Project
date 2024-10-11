@@ -19,6 +19,7 @@
 | 4  | **average load 분석** | average load 분석을 통한 부하의 원인파악 및 해결방안 | Linux, Infra | 개인 프로젝트 | [GitHub 링크](https://github.com/jeonguk0201/Average-Load-in-Linux) | 2023-09-23 |
 | 5  | **docker-optimization** | Docker에서 이미지 경량화 | Docker, Node.js, Linux | 개인 프로젝트 | [GitHub 링크](https://github.com/jeonguk0201/docker-optimization/tree/main) | 2023-09-24 |
 | 6  | **WooriFisa_JmeterStressTest** | JMeter를 활용한 스트레스 테스트 | Java, Docker, Mysql, EC2, JMeter | 팀 프로젝트 (4명) | [GitHub 링크](https://github.com/cshharry/WooriFisa_JmeterStressTest) | 2023-10-08 |
+| 7  | **AWS_Jenkins** | AWS_Jenkins CI/CD | Java, Jenkins, EC2, S3, crontab, Slack | 팀 프로젝트 (4명) | [GitHub 링크](https://github.com/jeonguk0201/AWS_Jenkins) | 2023-10-11 |
 
 
 <br>
