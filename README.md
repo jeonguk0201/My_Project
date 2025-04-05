@@ -37,4 +37,3 @@
 | 7  | **FISA 학생들을 위한 커뮤니티 - 맛집 공유 및 모임 생성** | FISA 학생들을 위한 물건 대여 및 커뮤니티 플랫폼 개발 | Spring Boot, JPA, RESTful API, React | 팀 프로젝트 (7명) | [GitHub 링크](https://github.com/yuwankang/FISA-Land) | 2024-08-16 |
 ---
 
-이 포트폴리오는 지속적으로 업데이트됩니다.
